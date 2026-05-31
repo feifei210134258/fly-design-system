@@ -144,8 +144,3 @@ AI 每次做设计必须按这个顺序走：
 
 ---
 
-## 关于
-
-Made by [Esther不二](https://github.com/esthersjw) — 在AI时代认真生活的女生
-
-灵感来源：[归藏 op7418](https://github.com/op7418) 的 PPT Design Skill
